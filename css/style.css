@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/Blue\ Black\ Minimalist\ Wellness\ Lifestyle\ Quote\ Facebook\ Cover\ \(1\).png);
+    background-position: 0;
+    background-size: cover;
+    color: white;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+}
+
+button:hover {
+    background-color: #316695 !important;
+    transition: background-color .3s ease-in-out;
+}
